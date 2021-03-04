@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "el9QkOCUErWOkrC+NECyy27D7w3ii0XzgQnOgxutwU60DgT45D/3crBFcwL+fmu/4+GvPd3USj7pfoEhkcbXrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sobol\\Desktop\\RomanMath (002)\\RomanMath.Impl\\RomanMath.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sobol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
